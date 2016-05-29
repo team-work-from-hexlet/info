@@ -21,5 +21,6 @@
 * tetris
 
 # Предложение по именованию репозиториев:
-<team>-<language>-<project-name>
+/team\-/language\-/project-name\
+
 Команда в которой есть все участники организации - 'all'
