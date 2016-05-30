@@ -23,3 +23,4 @@
 [team]-[language]-[project-name]
 
 Команда в которой есть все участники организации - 'all'
+Пример: all-js-pomodoro
